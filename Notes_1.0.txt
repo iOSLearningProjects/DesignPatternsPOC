@@ -1,0 +1,9 @@
+This Project Contains the list of Design Patters used.
+
+1. MVC
+2. MCCM
+3. MVP
+4. VIPER
+
+
+Also we can share some POC's over the list of Swift and Objective C tutorials
